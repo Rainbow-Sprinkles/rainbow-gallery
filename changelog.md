@@ -6,7 +6,15 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 
 ## *Version 1.0*
 
-### 2017-09-14.
+### 2017-09-22. (Teresa)
+- Updated Base Controller
+- Updated 4 views:
+  - template.php
+  - about.php
+  - welcome.php
+  - gallery.php
+
+### 2017-09-21. (Jayden)
 - Added two pages:
   - About
   - Gallery
