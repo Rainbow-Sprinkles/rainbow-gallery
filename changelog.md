@@ -6,6 +6,9 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 
 ## *Version 1.0*
 
+>2017-09-14.
+added CodeIgniter framework to the project
 
-[1.0.0] - 2017-09-14
+>2017-09-14.
 This is our initial additional to our changelog.
+
