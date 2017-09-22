@@ -6,4 +6,9 @@
 !*/cache/.htaccess
 /nbproject/private/
 /nbproject/
+# ignore the IDE metadata folder
 .metadata
+
+# ignore the Mac OS folder and files
+.DS_Store
+
