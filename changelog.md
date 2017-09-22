@@ -1,4 +1,4 @@
-#Change Log
+# Change Log
 
 Team membership:  Teresa (Captain) & Jayden (Mate)  
 Team conventions: Allman notation, markdown for changelog  
@@ -6,9 +6,9 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 
 ## *Version 1.0*
 
->2017-09-14.
-added CodeIgniter framework to the project
-
->2017-09-14.
-This is our initial additional to our changelog.
-
+### 2017-09-14.
+- Added two pages:
+  - About
+  - Gallery
+- Added CodeIgniter framework to the project.
+- This is our initial additional to our changelog.
