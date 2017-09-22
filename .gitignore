@@ -12,3 +12,5 @@
 # ignore the Mac OS folder and files
 .DS_Store
 
+# ignore the database config file
+/application/config/database.php
