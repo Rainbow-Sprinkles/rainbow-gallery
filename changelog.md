@@ -6,6 +6,10 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 
 ## *Version 1.0*
 
+### 2017-09-22. (Jayden)
+- Improvement on templates
+  - generate content for images using a table cell template.
+
 ### 2017-09-22. (Teresa)
 - Updated Base Controller
 - Updated 4 views:
